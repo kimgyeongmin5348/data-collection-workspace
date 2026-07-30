@@ -14,4 +14,6 @@ dependencies = [
     "selenium>=4.46.0",
     "webdriver-manager>=4.1.2",
     "xmltodict>=1.0.4",
+    "matplotlib>=3.11.1",
+    "missingno>=0.5.2",
 ]
