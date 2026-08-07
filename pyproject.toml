@@ -23,4 +23,6 @@ dependencies = [
     "scipy>=1.18.0",
     "konlpy>=0.6.0",
     "mglearn>=0.2.0",
+    "pydotplus>=2.0.2",
+    "graphviz>=0.21",
 ]
